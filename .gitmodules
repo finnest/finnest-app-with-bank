@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/finnest/App.git
+[submodule "bankAPI"]
+	path = bankAPI
+	url = https://github.com/finnest/bank_api.git
